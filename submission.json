@@ -1,0 +1,7 @@
+{
+  "prompt": "A single birthday cake viewed from a slightly elevated angle, representing the passage of time across decades. Each candle corresponds to a year, arranged in chronological order from left to right. The early candles have small, soft, warm flames, barely flickering. As the candles progress, the flames grow larger, more aggressive, and more chaotic. By the final candles, the flames are towering, violent, and engulfing the entire cake, beginning to melt and collapse it. No text, no labels, no numbers. The lighting is cinematic and dark, with the flames providing the only illumination. Highly detailed, photorealistic textures, shallow depth of field, emotional, symbolic, editorial illustration style. Avoid any charts, graphs, or infographic elements.",
+  "model": "DALL·E 3",
+  "dataset_name": "NASA Global Temperature Anomalies",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Global temperature rise is accelerating dramatically within a single human lifetime"
+}
