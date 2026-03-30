@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic workshop scene with a worn wooden door and an old metal lock. A massive, अत्यधिक intricate key is being inserted, covered in thousands of tiny irregular grooves and chaotic patterns that perfectly match every scratch, dent, and imperfection inside the lock. The lock itself is visibly flawed and noisy, with uneven wear, scratches, and dust. In the background, several clean, simple doors with smooth locks are visible, and the same complex key clearly does not fit them. The scene is grounded and physically realistic, like a photograph. Natural lighting, high detail, cinematic realism. The focus is on the absurd precision of the key matching one flawed lock while failing everywhere else. --no text, numbers, symbols, diagrams, labels",
+  "model": "Flux Pro 2.0",
+  "concept": "overfitting",
+  "metaphor": "An overly complex key perfectly matches one flawed lock but fails on others, reflecting a model that memorizes noise instead of generalizing."
+}
